@@ -1,0 +1,25 @@
+name: "Cálculo I"
+favicon: images/cdi1.ico
+output_dir: docs
+navbar:
+  title: "Cálculo I"
+  left:
+    #- text: "Inicio"
+    #  href: index.html
+    - text: "Evaluación"
+      href: 02-evaluacion.html
+    - text: "Notas"
+      href: 00-notas.html
+      #href: https://calculos.github.io/
+    - text: "Plan de trabajo"
+      href: 03-plan.html
+    - text: "Tareas"
+      href: 01-tareas.html
+    - text: "Temario"
+      href: archivos/c1-temario.pdf
+    - text: "Referencias"
+      href: 04-referencias.html
+output:
+    html_document:
+      theme: darkly
+      type: inverse

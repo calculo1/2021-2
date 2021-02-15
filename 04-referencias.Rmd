@@ -1,0 +1,20 @@
+---
+title: "Referencias"
+---
+
+## Textos recomendados
+
+  1. M. Spivak, **_Cálculo infinitesimal_**, 4a. ed., Reverté, México, 2012.
+  
+  2. T. M. Apostol, **_Calculus_**, Vol. I, Ed. Reverté, México, 2001.
+
+
+## Textos complementarios
+
+  3. H. Arizmendi, H. Carrillo y M. Lara, **_Cálculo, primer curso_**, Addison-Wesley Iberoamericana, México, 1987.
+  
+  4. N. Piskunov, **_Cálculo diferencial e integral_**, Ed. Mir, URSS, 1977.
+  
+  5. K. Kuratowski, **_Introducción al cálculo_**, Limusa-Wiley, México, 1970.
+  
+  <!-- 6. Y. Takeuchi, **_Sucesiones y Series_**, Tomo I, Limusa-Noriega, México, 1980. -->
