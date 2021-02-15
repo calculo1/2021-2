@@ -2,12 +2,13 @@
 title: "Plan de trabajo"
 ---
 
+---
 
  1. Para desarrollar plenamente el curso, los recursos principales serán:
  
-  - Vídeos explicativos de cada uno de los temas.
-  - Notas tanto de teoría como de ejemplos de cada uno de los temas.
-  - Algunas sesiones en vivo para resolver dudas sobre las listas de problemas.
+    - Vídeos explicativos de cada uno de los temas.
+    - Notas, tanto de teoría como de ejemplos, de cada uno de los temas.
+    - Algunas sesiones en vivo para resolver dudas sobre las listas de problemas.
 
 
  2. Las actividades anteriores serán llevadas a cabo en el horario del curso.

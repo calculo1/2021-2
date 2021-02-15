@@ -2,6 +2,8 @@
 title: "Referencias"
 ---
 
+---
+
 ## Textos recomendados
 
   1. M. Spivak, **_Cálculo infinitesimal_**, 4a. ed., Reverté, México, 2012.
@@ -9,6 +11,7 @@ title: "Referencias"
   2. T. M. Apostol, **_Calculus_**, Vol. I, Ed. Reverté, México, 2001.
 
 
+---
 ## Textos complementarios
 
   3. H. Arizmendi, H. Carrillo y M. Lara, **_Cálculo, primer curso_**, Addison-Wesley Iberoamericana, México, 1987.

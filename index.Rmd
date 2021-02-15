@@ -44,5 +44,3 @@ tbl_img %>%
   column_spec(2, extra_css = "vertical-align:middle;") %>%
   column_spec(3, extra_css = "vertical-align:middle;")
 ```
-
-
