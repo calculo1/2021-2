@@ -7,11 +7,15 @@ title: "Cálculo diferencial e integral I"
 
 # ¡Bienvenidos!
 
+```{r echo = FALSE, out.width = "80%", fig.align='center'}
+knitr::include_graphics("images/fciencias.jpg")
+```
+
+
 En esta página encontrarán toda la información necesaria acerca del curso:
 
  - Notas
- - Enlaces a los vídeos
- - Acceso al Foro
+ - Enlaces a los videos
  - Tareas
  - Calificaciones
  - Temario
@@ -29,7 +33,7 @@ En esta página encontrarán toda la información necesaria acerca del curso:
 
 # ¿Quienes somos?
 
-```{r echo = FALSE}
+```{r echo = FALSE, out.width="100%"}
 library(kableExtra)
 tbl_img <- data.frame(
   fotos = "",
