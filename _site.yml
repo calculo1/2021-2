@@ -1,5 +1,4 @@
 name: "Cálculo I"
-favicon: images/cdi1.ico
 output_dir: docs
 navbar:
   title: "Cálculo I"
@@ -23,3 +22,5 @@ output:
     html_document:
       theme: darkly
       type: inverse
+      includes:
+        in_header: header.html
