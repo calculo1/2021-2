@@ -1,5 +1,7 @@
 ---
 title: "Cálculo diferencial e integral I"
+favicon: images/cdi1.ico
+description: "Página web del curso de Cálculo diferencial e integral I impartido por por OAGJ y ASG durante el semestre 2021-2."
 ---
 
 
