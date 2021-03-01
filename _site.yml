@@ -9,7 +9,7 @@ navbar:
       href: 02-evaluacion.html
     - text: "Notas"
       #href: 00-notas.html
-      href: https://calculos.github.io/notas2012-1/
+      href: https://calculos.github.io/notas2021-2/
     - text: "Plan de trabajo"
       href: 03-plan.html
     - text: "Tareas"
