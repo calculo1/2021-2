@@ -2,4 +2,15 @@
 title: "Tareas"
 ---
 
-Aquí aparecerán las tareas a realizar durante el curso.
+---
+
+## Tarea 01
+
+
+```{r echo= FALSE, out.width="100%", out.height=500, fig.align='center'}
+knitr::include_graphics("archivos/T1.pdf")
+```
+
+<br/>
+
+Si el enlace anterior no funciona, puede descargar el pdf [AQUÍ](archivos/T1.pdf).
