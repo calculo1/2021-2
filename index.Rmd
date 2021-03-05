@@ -44,14 +44,17 @@ En esta página encontrarán toda la información necesaria acerca del curso:
 library(kableExtra)
 tbl_img <- data.frame(
   fotos = "",
-  nombre = c("Óscar Alberto Garrido Jiménez", "Arturo Sánchez González"),
-  correo = c("oagj@ciencias.unam.mx", "asg@ciencias.unam.mx")
+  nombre = c("Óscar Alberto Garrido Jiménez", "Arturo Sánchez González",
+             "Javier Arturo Paredes Tenorio", "Carlos Daniel Velázquez Mendoza"),
+  correo = c("oagj@ciencias.unam.mx", "asg@ciencias.unam.mx",
+             "javtenorio@ciencias.unam.mx", "danielc21@ciencias.unam.mx")
 )
 tbl_img %>%
   kbl(booktabs = T, col.names = c("Nosotros", " ", "Contacto")) %>%
   kable_styling(full_width = F, position = "center") %>%
   column_spec(1, image = spec_image(
-              c("images/oagj.jpg", "images/asg.jpg"), 500, 308)) %>%
+              c("images/oagj.jpg", "images/asg.jpg",
+                "images/japt.jpg", "images/cdvm.jpg"), 500, 308)) %>%
   column_spec(2, extra_css = "vertical-align:middle;") %>%
   column_spec(3, extra_css = "vertical-align:middle;")
 ```
