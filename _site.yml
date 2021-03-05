@@ -16,7 +16,7 @@ navbar:
       menu:
       - text: Capítulo 1
       - text: Tarea 1
-        href: 01-tareas.html
+        href: 01-tarea1.html
       - text: '---------'
     - text: "Temario"
       href: archivos/c1-temario.pdf

@@ -40,7 +40,7 @@ En esta página encontrarán toda la información necesaria acerca del curso:
 
 # ¿Quienes somos?
 
-```{r echo = FALSE, out.width="100%"}
+```{r echo = FALSE, out.width="100%", warning=FALSE}
 library(kableExtra)
 tbl_img <- data.frame(
   fotos = "",
